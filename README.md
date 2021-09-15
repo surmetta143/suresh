@@ -1,2 +1,6 @@
 # suresh
-it's practice
+def sur():
+  a = 2
+  b= 3
+  return a+b
+
