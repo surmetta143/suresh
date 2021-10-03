@@ -1,1 +1,9 @@
-thiis is adding into local repository
+#writing programm for captital letter
+def capital_letter1(func):
+      def normal():
+       string1=func()
+       return string1.upper()
+      return normal
+def captial_letter():
+   return "I am the richest person"
+captial_letter()
